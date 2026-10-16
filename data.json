@@ -1,0 +1,5 @@
+[
+    { "text": "人生如逆旅，我亦是行人。", "author": "苏轼" },
+    { "text": "测试数据：加载成功则显示这条", "author": "XSS测试" },
+    { "text": "<img src=x onerror=\"document.title='XSS_EXECUTED'\">", "author": "payload" }
+  ]
